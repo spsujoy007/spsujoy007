@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [www.spsujoy007.github.io/panda-commerce/](www.spsujoy007.github.io/panda-commerce/)
+- 👨‍💻 All of my projects are available at [https://github.com/spsujoy007?tab=repositories](https://github.com/spsujoy007?tab=repositories)
 
 - 📫 How to reach me **spsujoy728@gmail.com**
 
