@@ -2,7 +2,7 @@
 ### Learning Programming with full focus-
 ![Learning Programming with full focus-](https://pbs.twimg.com/profile_banners/1458814408172314630/1659271654/1500x500)
 
-I work efficiently in to hope of success.
+<p style="color:#00FDAC">I work efficiently in to hope of success.</p>
 
 Skills: HTML / CSS/ JS
 
