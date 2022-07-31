@@ -16,4 +16,4 @@ Skills: HTML / CSS/ JS
 
 ![GitHub metrics](https://metrics.lecoq.io/spsujoy007)  
 
-![Profile views](https://gpvc.arturio.dev/spsujoy007)  
+![Profile views](https://gpvc.arturio.dev/spsujoy007)
