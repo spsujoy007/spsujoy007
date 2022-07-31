@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 # My name is SP Sujoy 
-#### I work efficiently in to hope of success.
+#### Learning code
 
 <img src="https://pbs.twimg.com/profile_banners/1458814408172314630/1659271654/1500x500">
 
