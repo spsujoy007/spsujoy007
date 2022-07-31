@@ -1,4 +1,4 @@
-### Hi there <br> 👋, 
+### Hi there 👋, 
 <h1> My name is SP Sujoy </h1>
 #### I work efficiently in to hope of success.
 ![I work efficiently in to hope of success.](https://pbs.twimg.com/profile_banners/1458814408172314630/1659262391/1500x500)
