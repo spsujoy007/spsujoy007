@@ -1,8 +1,8 @@
 # Hi there 👋, my name is SP SUJOY
-### Learning Programming with full focus-
+###<p style="color:#00FDAC"> Learning Programming with full focus- </p>
 ![Learning Programming with full focus-](https://pbs.twimg.com/profile_banners/1458814408172314630/1659271654/1500x500)
 
-<p style="color:#00FDAC">I work efficiently in to hope of success.</p>
+I work efficiently in to hope of success.
 
 Skills: HTML / CSS/ JS
 
