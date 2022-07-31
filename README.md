@@ -1,24 +1,14 @@
-<h1 align="center">Hi 👋, I'm SP Sujoy</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+### Hi there 👋, my name is SP Sujoy
+#### I work efficiently in to hope of success.
+![I work efficiently in to hope of success.](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/293916698_183633600773781_7349730942578157132_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFCGMQNAmXEvwMVi5Acuag8gukC8O18YuWC6QLw7Xxi5frJYdOw8qoWZw1ifTS4qaPAK9xaaiV3RbxOYEf6CmA8&_nc_ohc=YZbSWWmW0UQAX-lIWu-&_nc_ht=scontent.fdac14-1.fna&oh=00_AT9YJrbSfe8OW7s9NxK8Rz6kne8c32fFfEARc1vvK9_cfg&oe=62EB7987)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spsujoy007&label=Profile%20views&color=0e75b6&style=flat" alt="spsujoy007" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/spsujoy007?tab=repositories](https://github.com/spsujoy007?tab=repositories)
 
-- 📫 How to reach me **spsujoy728@gmail.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/spsujoy007)  
 
-- ⚡ Fun fact **I think I am funny**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=spsujoy007&show_icons=true)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/spsujoy007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spsujoy007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/spsujoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/spsujoy" height="30" width="40" /></a>
-<a href="https://fb.com/https://facebook.com/spsujoy007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/spsujoy007" height="30" width="40" /></a>
-</p>
+![GitHub metrics](https://metrics.lecoq.io/spsujoy007)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spsujoy007&show_icons=true&locale=en&layout=compact" alt="spsujoy007" /></p>
+![Profile views](https://gpvc.arturio.dev/spsujoy007)  
