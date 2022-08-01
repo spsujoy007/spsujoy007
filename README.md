@@ -14,6 +14,6 @@ Skills: HTML / CSS/ JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=spsujoy007&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/spsujoy007)  
+ ![GitHub metrics](https://metrics.lecoq.io/spsujoy007)  
 
 ![Profile views](https://gpvc.arturio.dev/spsujoy007)
