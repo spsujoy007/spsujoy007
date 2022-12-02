@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm SUJOY PAUL</h1>
-<img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/profile_banners/1458814408172314630/1659271654/600x200">
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/profile_banners/1458814408172314630/1659271654/600x200" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spsujoy007&label=Profile%20views&color=0e75b6&style=flat" alt="spsujoy007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spsujoy007" alt="spsujoy007" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/spsujoy007" target="blank"><img src="https://img.shields.io/twitter/follow/spsujoy007?logo=twitter&style=for-the-badge" alt="spsujoy007" /></a> </p>
 
