@@ -1,5 +1,5 @@
 <div align="center">
-![MasterHead](https://pbs.twimg.com/profile_banners/1458814408172314630/1659271654/600x200)
+<img src="https://pbs.twimg.com/profile_banners/1458814408172314630/1659271654/600x200" alt="bgimage" />
 </div>
 <h1 align="center">Hi 👋, I'm SUJOY PAUL</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
