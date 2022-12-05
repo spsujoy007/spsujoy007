@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://pbs.twimg.com/profile_banners/1458814408172314630/1659271654/600x200)
 <h1 align="center">Hi 👋, I'm SUJOY PAUL</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
