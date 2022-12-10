@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native, Material UI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/spsujoy007?tab=repositories]
+- 👨‍💻 All of my projects are available at https://github.com/spsujoy007?tab=repositories
 
 - 💬 Ask me about **reactjs, mongodb**
 
