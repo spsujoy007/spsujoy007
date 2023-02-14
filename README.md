@@ -2,7 +2,7 @@
 <img src="https://pbs.twimg.com/profile_banners/1458814408172314630/1659271654/600x200" alt="bgimage" />
 </div>
 <h1 align="center">Hi! I'm SUJOY PAUL</h1>
-<h3 align="center">A Passionate Frontend Web Developer From Bangladesh</h3>
+<h3 align="center">A Passionate MERN Stack Web Developer From Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spsujoy007&label=Profile%20views&color=0e75b6&style=flat" alt="spsujoy007" /> </p>
 
