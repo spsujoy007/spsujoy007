@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **reactjs, mongodb**
 
-- 📫 How to reach me **sujoypaul728@gmail.com**
+- 📫 How to reach me <p color="red">**sujoypaul728@gmail.com**<p>
 - 🌐 Portfolio: https://bit.ly/spsujoy
 
 <h3 align="left">Connect with me:</h3>
