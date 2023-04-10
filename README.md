@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujoy Paul</h1>
+<h1 align="center">Hi 👋, I'm Sujoy</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spsujoy007&label=Profile%20views&color=0e75b6&style=flat" alt="spsujoy007" /> </p>
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://spsujoy.netlify.app/](https://spsujoy.netlify.app/)
 
-- 📝 I regularly write articles on [https://techmastersp07.blogspot.com/feeds/posts/default?alt=rss](https://techmastersp07.blogspot.com/feeds/posts/default?alt=rss)
+- 📝 I regularly write articles on [https://spsujoy.netlify.app/blog](https://spsujoy.netlify.app/blog)
 
 - 💬 Ask me about **React, Next JS, MongoDB**
 
@@ -17,13 +17,18 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1O0JGPhQGrxZdiPCTloMSFVAGadN6-3HS/view](https://drive.google.com/file/d/1O0JGPhQGrxZdiPCTloMSFVAGadN6-3HS/view)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://g.dev/spsujoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://g.dev/spsujoy" height="30" width="40" /></a>
 <a href="https://twitter.com/spsujoy007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spsujoy007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/spsujoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/spsujoy/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/spsujoy07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/spsujoy07" height="30" width="40" /></a>
-<a href="https://discord.gg/#0466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0466" height="30" width="40" /></a>
+<a href="https://medium.com/@sujoypaul728" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sujoypaul728" height="30" width="40" /></a>
+<a href="https://discord.gg/Sujoy Kumar Paul#0466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sujoy Kumar Paul#0466" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
