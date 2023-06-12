@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://spsujoy.netlify.app/blog](https://spsujoy.netlify.app/blog)
 
-- 💬 Ask me about **my dream
+- 💬 Ask me about **my dream**
 
 - 📫 How to reach me **sujoypaul728@gmail.com**
 
