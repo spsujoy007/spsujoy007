@@ -1,4 +1,4 @@
-<img style="width: 100%; " src="https://drive.google.com/file/d/1Dxx3ZRDhkYgrIF7wvoDmhpSBWVFFtyNv/view?usp=sharing" />
+<img style="width: '100%'; " src="https://drive.google.com/file/d/1Dxx3ZRDhkYgrIF7wvoDmhpSBWVFFtyNv/view?usp=sharing" />
 <h1 align="center">Hi 👋, I'm Sujoy</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
