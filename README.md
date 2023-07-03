@@ -1,4 +1,4 @@
-<img width='100%' src="https://drive.google.com/file/d/1Dxx3ZRDhkYgrIF7wvoDmhpSBWVFFtyNv/view?usp=sharing" />
+<img width='100%' src="https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/356107293_294318493038624_6564818692525387721_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGC5I5lyQ_89C3vFZWZz49AoGhazhvbhaqgaFrOG9uFqv6jz3tXQ60GiEWo-uaTIMIZoGTIDgTFR6u95tnRSHCN&_nc_ohc=3joua8Ct1GcAX9n6Tmd&_nc_ht=scontent.fdac31-1.fna&oh=00_AfC49M-7aeMgJ11j6oO0c_97VKXOMbB460NnMlbp3an1_Q&oe=64A6A4DF" />
 <h1 align="center">Hi 👋, I'm Sujoy</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
