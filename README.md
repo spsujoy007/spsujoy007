@@ -1,6 +1,6 @@
-<img width='100%' src="https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/356107293_294318493038624_6564818692525387721_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGC5I5lyQ_89C3vFZWZz49AoGhazhvbhaqgaFrOG9uFqv6jz3tXQ60GiEWo-uaTIMIZoGTIDgTFR6u95tnRSHCN&_nc_ohc=3joua8Ct1GcAX9n6Tmd&_nc_ht=scontent.fdac31-1.fna&oh=00_AfC49M-7aeMgJ11j6oO0c_97VKXOMbB460NnMlbp3an1_Q&oe=64A6A4DF" />
+<a href="https://app.daily.dev/sujoypaul"><img src="https://api.daily.dev/devcards/3a12718d0a054571b20a2ccef110d1d1.png?r=g49" width="400" alt="Sujoy Paul's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Sujoy</h1>
-<h3 align="center">A passionate Frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend developer from Bangladesh </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spsujoy007&label=Profile%20views&color=0e75b6&style=flat" alt="spsujoy007" /> </p>
 
