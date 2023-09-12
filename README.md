@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/sujoypaul"><img src="https://api.daily.dev/devcards/3a12718d0a054571b20a2ccef110d1d1.png?r=g49" width="400" alt="Sujoy Paul's Dev Card"/></a>
+
 <h1 align="center">Hi 👋, I'm Sujoy</h1>
 <h3 align="center">A passionate Frontend developer from Bangladesh </h3>
 
