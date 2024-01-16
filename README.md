@@ -1,5 +1,7 @@
-![Header](https://pbs.twimg.com/media/GD8-gzva4AA_rkO?format=jpg&name=small)
-
+<p align="center">
+  
+<img align="center" width="700px" src="https://pbs.twimg.com/media/GD8-gzva4AA_rkO?format=jpg&name=small" alt="spsujoy007" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Sujoy</h1>
 <h3 align="center">A passionate Frontend developer from Bangladesh </h3>
