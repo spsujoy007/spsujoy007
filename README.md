@@ -1,9 +1,8 @@
 <p align="center">
-  
 <img align="center" width="700px" src="https://pbs.twimg.com/media/GD8-gzva4AA_rkO?format=jpg&name=small" alt="spsujoy007" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sujoy</h1>
+<!-- <h1 align="center">Hi 👋, I'm Sujoy</h1> -->
 <h3 align="center">A passionate Frontend developer from Bangladesh </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spsujoy007&label=Profile%20views&color=0e75b6&style=flat" alt="spsujoy007" /> </p>
