@@ -1,3 +1,4 @@
+![Header](./["https://res.cloudinary.com/cloudinarybysp/image/upload/v1747220399/personal/xbanner.jpg"])
 <h1 align="center">Hi, I'm Sujoy! 👋</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
