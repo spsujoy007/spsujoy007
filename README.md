@@ -1,6 +1,4 @@
 ![Banner](https://res.cloudinary.com/cloudinarybysp/image/upload/v1747220399/personal/xbanner.jpg)
-<h1 align="center">Hi, I'm Sujoy! 👋</h1>
-<h3 align="center">A passionate Software Developer</h3>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sujoy_v0.1) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/spsujoy07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/spsujoypal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/spsujoy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/spsujoy007) 
