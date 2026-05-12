@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Sujoy Paul 👋
 
-<!--
-**spsujoy007/spsujoy007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 BCA in Cyber Security & Forensic Student at Parul University
+- 💻 Passionate about Programming, Cyber Security, Automation, and Software Development
+- 🔐 Future Goal: Security Engineer
+- 🚀 Building projects with modern web technologies
+- 🌍 From Bangladesh
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Languages
+- C
+- C++
+- Python
+- JavaScript
+
+### Frontend
+- HTML
+- CSS
+- Tailwind CSS
+- React
+- Next.js
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+- PostgreSQL
+
+### Other Skills
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- REST API Development
+- Git & GitHub
+- Python Automation
+- Cyber Security Basics
+
+---
+
+## Current Focus
+- Learning Advanced Cyber Security
+- Python Automation
+- Web Automation
+- Building Real-World Projects
+- Improving Problem Solving Skills
+
+---
+
+## Projects
+### 🚀 DeepStream
+Online coding language learning platform inspired by W3Schools.
+
+### 💬 DevQueryFire
+Q&A platform for developers similar to Stack Overflow.
+
+### 🌌 InspireSpace
+Project sharing platform for developers and creators.
+
+---
+
+## GitHub Stats
+
+```text
+Consistent Learning > Perfection
