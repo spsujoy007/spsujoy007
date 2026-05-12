@@ -11,11 +11,19 @@
 
 ## Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
 ### Languages
 - C
 - C++
 - Python
 - JavaScript
+
+</td>
+
+<td valign="top" width="33%">
 
 ### Frontend
 - HTML
@@ -24,16 +32,24 @@
 - React
 - Next.js
 
-### Backend
+</td>
+
+<td valign="top" width="33%">
+
+### Backend & Database
 - Node.js
 - Express.js
-
-### Database
 - MongoDB
 - MySQL
 - PostgreSQL
 
-### Other Skills
+</td>
+</tr>
+</table>
+
+---
+
+## Other Skills
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - REST API Development
@@ -52,19 +68,11 @@
 
 ---
 
-## Projects
-### 🚀 DeepStream
-Online coding language learning platform inspired by W3Schools.
-
-### 💬 DevQueryFire
-Q&A platform for developers similar to Stack Overflow.
-
-### 🌌 InspireSpace
-Project sharing platform for developers and creators.
+## Connect With Me
+- 🌐 Portfolio: https://spsujoy.netlify.app
+- 💻 GitHub: https://github.com/YOUR_USERNAME
 
 ---
 
-## GitHub Stats
-
-```text
-Consistent Learning > Perfection
+## Quote
+> "Code. Learn. Build. Repeat."
