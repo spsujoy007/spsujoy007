@@ -54,7 +54,6 @@
 - Object-Oriented Programming
 - REST API Development
 - Git & GitHub
-- Python Automation
 - Cyber Security Basics
 
 ---
@@ -64,13 +63,12 @@
 - Python Automation
 - Web Automation
 - Building Real-World Projects
-- Improving Problem Solving Skills
+- Improving Problem-Solving Skills
 
 ---
 
 ## Connect With Me
 - 🌐 Portfolio: https://spsujoy.netlify.app
-- 💻 GitHub: https://github.com/YOUR_USERNAME
 
 ---
 
