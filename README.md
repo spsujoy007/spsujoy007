@@ -1,5 +1,6 @@
-# Hi, I'm Sujoy Paul 👋
-
+<p align="center">
+  <img src="./assets/banner.png" alt="Sujoy Paul Banner" width="100%" />
+</p>
 ## About Me
 - 🎓 BCA in Cyber Security & Forensic Student at Parul University
 - 💻 Passionate about Programming, Cyber Security, Automation, and Software Development
