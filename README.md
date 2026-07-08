@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Sujoy Paul Banner" width="100%" />
+  <img src="https://res.cloudinary.com/cloudinarybysp/image/upload/v1783517646/ChatGPT_Image_Jul_8_2026_07_01_21_PM_aotagp.png" alt="Sujoy Paul Banner" width="100%" />
 </p>
 ## About Me
 - 🎓 BCA in Cyber Security & Forensic Student at Parul University
